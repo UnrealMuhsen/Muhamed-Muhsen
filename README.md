@@ -23,3 +23,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UnrealMuhsen&" alt="UnrealMuhsen" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnrealMuhsen&show_icons=true&locale=en&layout=compact" alt="UnrealMuhsen" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UnrealMuhsen" alt="UnrealMuhsen" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UnrealMuhsen/UnrealMuhsen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnrealMuhsen/UnrealMuhsen/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/UnrealMuhsen/UnrealMuhsen/output/github-snake.svg" />
+</picture>
